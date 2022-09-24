@@ -1,0 +1,24 @@
+a {
+  color: rgb(150, 1, 103);
+  text-decoration: none;
+}
+
+.bg-red {
+  background-color: rgb(247, 0, 111);
+}
+
+.boton {
+  background-color: rgb(247, 0, 111);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px;
+
+}
+
+.boton:hover {
+  background-color: rgb(212, 0, 95);
+  color: white;
+}
